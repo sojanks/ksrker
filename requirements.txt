@@ -1,0 +1,7 @@
+streamlit
+langchain
+langchain-anthropic
+langchain-community
+faiss-cpu
+fastembed
+pypdf
